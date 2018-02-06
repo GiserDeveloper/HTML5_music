@@ -6,7 +6,7 @@
 3、音频操作：`webAudio` <br>
 4、音频数据可视化：`Canvas`<br>
 ####应用核心结构介绍<br>
-![Alt text](https://github.com/GiserDeveloper/HTML5_music/public/media/680d34b3-f14f-4ad5-b526-43718111b979.png)
+![](https://github.com/GiserDeveloper/HTML5_music/raw/master/public/media/680d34b3-f14f-4ad5-b526-43718111b979.png)<br>
 ####项目搭建流程总结
 <p style="color:blue"><strong>1、全局安装express</p>
 `$ npm install -g express-generator`
