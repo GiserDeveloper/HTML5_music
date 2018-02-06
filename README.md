@@ -1,12 +1,12 @@
 ### Html5可视化音乐播放器
 ----------
 #### 项目技术栈总结
-1、服务端：`Node + Express + ejs`
-2、前端界面：`HTML + CSS(CSS3) + JS`
-3、音频操作：`webAudio`
-4、音频数据可视化：`Canvas`
-####应用核心结构介绍
-![Alt text](./1515847205333.png)
+1、服务端：`Node + Express + ejs` <br>
+2、前端界面：`HTML + CSS(CSS3) + JS`  <br>
+3、音频操作：`webAudio` <br>
+4、音频数据可视化：`Canvas`<br>
+####应用核心结构介绍<br>
+![Alt text](https://github.com/GiserDeveloper/HTML5_music/public/media/680d34b3-f14f-4ad5-b526-43718111b979.png)
 ####项目搭建流程总结
 <p style="color:blue"><strong>1、全局安装express</p>
 `$ npm install -g express-generator`
