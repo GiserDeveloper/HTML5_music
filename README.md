@@ -19,4 +19,4 @@
 5、实现监测项目，有变化则重启服务<br>
 `$ supervisor bin/www`<br>
 6、访问127.0.0.1:3000，后台搭建完成，整个项目结构如下<br>
-![Alt text](./1515849889143.png)
+![Alt text](https://github.com/GiserDeveloper/HTML5_music/raw/master/public/media/fb8d0d7a-e6d0-4f8b-a9ab-f7e09877017e222.png)
